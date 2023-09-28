@@ -1,0 +1,10 @@
+package org.entty;
+
+/**
+ * Main launcher
+ */
+public class Main {
+    public static void main( String[] args ) {
+        System.out.println( "this is entty, a high performance asynchronous network framework" );
+    }
+}
